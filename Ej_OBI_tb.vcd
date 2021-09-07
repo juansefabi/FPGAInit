@@ -1,0 +1,30 @@
+$date
+	Tue Sep  7 19:55:46 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Ej_OBI_tb $end
+$var wire 1 ! dout $end
+$var reg 1 " din $end
+$scope module NOT1 $end
+$var wire 1 " A $end
+$var wire 1 ! B $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x"
+x!
+$end
+#5
+1!
+0"
+#15
+0!
+1"
+#35
